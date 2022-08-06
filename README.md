@@ -4,11 +4,19 @@
 
 
 ### 🛑 Pré-Requisitos
+<<<<<<< HEAD
 - ✅ Conhecer a sintaxe da Java
 - ✅ Java JDK 11
 - ✅ IDE para desenvolvimento Java (utilizei VSCode)
 - ✅ Git
 - ✅ Conta no GitHub
+=======
+* ✅ Conhecer a sintaxe da Java
+* ✅ Java JDK 11
+* ✅ IDE para desenvolvimento Java (utilizei VSCode)
+* ✅ Git
+* ✅ Conta no GitHub
+>>>>>>> 8bcc8e328000761b4cd6e38aa30eb7c84b06f0ce
 
 
 ### 👣 Passo-a-Passo
