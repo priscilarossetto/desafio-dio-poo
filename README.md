@@ -17,6 +17,9 @@
 5. E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS
 
 
-### Créditos
-Repositório de referência: [https://github.com/cami-la/desafio-poo-dio]
-Instrutora da aula: [Camila Cavalcante](https://github.com/cami-la)
+## ✔️Créditos
+- Repositório de referência: https://github.com/cami-la/desafio-poo-dio
+
+- Instrutora da aula: [Camila Cavalcante](https://github.com/cami-la)
+
+- Bootcamp Santander Code Girls 👩🏻‍💻♨️💖
